@@ -1,23 +1,23 @@
-import Work1 from "../../assets/work1.jpg";
-import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
 import Work4 from "../../assets/work4.jpg";
 import Work5 from "../../assets/work5.jpg";
 import Todo from "../../assets/todo.png"
+import Realtor from "../../assets/realtor.png"
 
 export const projectsData = [
   {
     id: 1,
     image: Todo,
-    title: "Web design",
+    title: "React Todo List",
     category: "web",
     url: "https://todolist-indol-psi.vercel.app/"
   },
   {
     id: 2,
-    image: Work2,
-    title: "App movil",
+    image: Realtor,
+    title: "Realtor App",
     category: "app",
+    url: "https://realestate-api-next.vercel.app/"
   },
   // {
   //   id: 3,
