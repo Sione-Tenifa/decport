@@ -7,7 +7,9 @@ const Info = () => {
         <i class="bx bx-award about__icon"></i>
 
         <h3 className="about__title">Experience</h3>
-        <span className="about__subtitle">8 Years Working</span>
+        <span className="about__subtitle">3 Years Working</span> <br></br> 
+        <span className="about__subtitle">Software Technical Support</span>  <br></br>       
+        <span className="about__subtitle">Web Developer</span> 
       </div>
 
       <div className="about__box">
@@ -18,10 +20,10 @@ const Info = () => {
       </div>
 
       <div className="about__box">
-        <i class="bx bx-support about__icon"></i>
+        <i class="bx bx-basketball about__icon"></i>
 
-        <h3 className="about__title">Support</h3>
-        <span className="about__subtitle">Online 24/7</span>
+        <h3 className="about__title">Coaching</h3>
+        <span className="about__subtitle">5 years coaching Basketball and Football</span>
       </div>
     </div>
   );
