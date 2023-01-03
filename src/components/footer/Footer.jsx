@@ -20,14 +20,9 @@ const Footer = () => {
             </a>
           </li>
 
-          <li>
-            <a href="#testimonials" className="footer__link">
-              Testimonials
-            </a>
-          </li>
         </ul>
 
-        <div className="footer__social">
+        {/* <div className="footer__social">
           <a
             href="https://www.facebook.com/"
             className="footer__social-link"
@@ -51,7 +46,7 @@ const Footer = () => {
           >
             <i className="bx bxl-twitter"></i>
           </a>
-        </div>
+        </div> */}
 
         <span className="footer__copy">
           &#169; Sione Tenifa

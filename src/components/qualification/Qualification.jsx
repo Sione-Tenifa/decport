@@ -81,7 +81,9 @@ const Qualification = () => {
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 2020
                 </div>
+                
               </div>
+
             </div>
 
           </div>
