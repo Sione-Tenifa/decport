@@ -1,6 +1,6 @@
-import Work3 from "../../assets/work3.jpg";
-import Work4 from "../../assets/work4.jpg";
-import Work5 from "../../assets/work5.jpg";
+import Movie from "../../assets/movieapi.jpeg";
+import dad from "../../assets/dadjokes.jpeg";
+import water from "../../assets/water.jpeg";
 import Todo from "../../assets/todo.png"
 import Realtor from "../../assets/realtor.png"
 
@@ -19,24 +19,27 @@ export const projectsData = [
     category: "app",
     url: "https://realestate-api-next.vercel.app/"
   },
-  // {
-  //   id: 3,
-  //   image: Work3,
-  //   title: "Brand design",
-  //   category: "design",
-  // },
-  // {
-  //   id: 4,
-  //   image: Work4,
-  //   title: "App movil",
-  //   category: "app",
-  // },
-  // {
-  //   id: 5,
-  //   image: Work5,
-  //   title: "Web design",
-  //   category: "web",
-  // },
+  {
+    id: 3,
+    image: Movie,
+    title: "Movie API",
+    category: "app",
+    url: "https://movieapi-kappa.vercel.app/",
+  },
+  {
+    id: 4,
+    image: dad,
+    title: "Dad Jokes API",
+    category: "app",
+    url: 'https://dadjokes-liart.vercel.app/', 
+  },
+  {
+    id: 5,
+    image: water,
+    title: "Daily Water tracker",
+    category: "web",
+    url: "https://watertracker.vercel.app/",
+  },
 ];
 
 // projects
