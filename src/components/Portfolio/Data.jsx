@@ -3,6 +3,7 @@ import dad from "../../assets/dadjokes.jpeg";
 import water from "../../assets/water.jpeg";
 import Todo from "../../assets/todo.png"
 import Realtor from "../../assets/realtor.png"
+import candy from "../../assets/candycrush.png"
 
 export const projectsData = [
   {
@@ -39,6 +40,13 @@ export const projectsData = [
     title: "Daily Water tracker",
     category: "web",
     url: "https://watertracker.vercel.app/",
+  },
+  {
+    id: 6,
+    image: candy,
+    title: "Candy Crush",
+    category: "web",
+    url: "https://candycrush-coral.vercel.app/",
   },
 ];
 
