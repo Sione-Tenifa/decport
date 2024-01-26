@@ -57,6 +57,13 @@ export const projectsData = [
     category: "web",
     url: "https://candycrush-coral.vercel.app/",
   },
+  {
+    id: 8,
+    image: candy,
+    title: "MyDB Solutions homepage",
+    category: "web",
+    url: "https://mydbboot.vercel.app/",
+  },
 ];
 
 // projects
