@@ -5,7 +5,7 @@ import Todo from "../../assets/todo.png"
 import Realtor from "../../assets/realtor.png"
 import candy from "../../assets/candycrush.png"
 import password from "../../assets/password.png"
-
+import mydb from "../../assets/mydb.png"
 export const projectsData = [
   {
     id: 1,
@@ -56,6 +56,13 @@ export const projectsData = [
     title: "Candy Crush",
     category: "web",
     url: "https://candycrush-coral.vercel.app/",
+  },
+  {
+    id: 8,
+    image: mydb,
+    title: "MyDB Solutions homepage",
+    category: "web",
+    url: "https://mydbboot.vercel.app/",
   },
 ];
 
