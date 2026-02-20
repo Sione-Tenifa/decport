@@ -43,6 +43,15 @@
     display: block;
 }
 
+.qualification__text {
+    font-size: var(--normal-font-size);
+    color: var(--text-color);
+    line-height: 1.7;
+    text-align: center;
+    max-width: 42ch;
+    margin: 0 auto;
+}
+
 .qualification__data {
     display: grid;
     grid-template-columns: 1fr max-content 1fr;
