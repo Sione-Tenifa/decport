@@ -36,22 +36,22 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title">Web Developer</h3>
-                <span className="qualification__subtitle">RizePoint - Utah</span>
-                <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> February 2022 - Present
-                </div>
-              </div>
-            </div>
-
-            <div className="qualification__data">
-              <div>
                 <h3 className="qualification__title">Backend Engineer</h3>
                 <span className="qualification__subtitle">
                   SwipeClock
                 </span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> April 2022 - October 2022
+                </div>
+              </div>
+            </div>
+
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">Web Developer</h3>
+                <span className="qualification__subtitle">RizePoint - Utah</span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calendar-alt"></i> February 2022 - Present
                 </div>
               </div>
 
